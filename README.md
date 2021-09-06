@@ -1,5 +1,6 @@
 # Inventory_Management
 About managing the items in the Inventory using python and JSON file format
+-----------------------------------------------------------------------------
 ### Details
 Using the python langauge we add items into the Inventory and Update the purchased items and give Sales report for the transaction
 #### Features Included
@@ -23,3 +24,10 @@ Using the python langauge we add items into the Inventory and Update the purchas
 * Prints available quantity if user quantity exceed
 * Update sales report for every purchase
 * The sales report is stored in JSON file Sale.json
+---------------------------------------------------------------------
+### Who am I?
+I am Kushal Manohar.I am a Computer Science Student working on the new skills for the Improvement of the career.
+---------------------------------------------------------------------
+## Links to Connect
+https://www.linkedin.com/in/kushal-manohar-malla-3550a521a
+
